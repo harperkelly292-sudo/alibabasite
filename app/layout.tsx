@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AliExpress Clone - Online Shopping",
+  title: "AliExpress - Online Shopping",
   description: "Shop electronics, fashion, home & garden, and more at amazing prices",
   generator: "v0.app",
   icons: {
